@@ -81,6 +81,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HarshitPG/HarshitPG/output/snake.svg" alt="Snake animation" />
+
 
 ###
